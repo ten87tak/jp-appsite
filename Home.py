@@ -4,7 +4,7 @@ import pandas
 
 st.set_page_config(layout="wide")
 
-st.write("[English](https://ten87tak-my-portfolio-website-home-phue3k.streamlit.app/)")
+st.write("[English](https://ten87tak-en-appsite-home-1793y0.streamlit.app/)")
 
 st.title("アプサイト")
 st.header("Python で作ったアプリのポートフォリオサイトです!!😄")
