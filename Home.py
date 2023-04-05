@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas
 
+
 st.set_page_config(layout="wide")
 
 st.write("[English](https://ten87tak-my-portfolio-website-home-phue3k.streamlit.app/)")
