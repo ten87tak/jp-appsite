@@ -3,7 +3,7 @@ title;description;url;image;url2;exe
 アプサイト（このサイト）;プロジェクトとアプリを紹介している、１から１０まで Python で作成されたウェブサイト。;https://github.com/ten87tak/my-portfolio-website;2.png;https://ten87tak-my-portfolio-website-home-phue3k.streamlit.app/;False
 PDF テンプレ・ジェネレータ;ヘッダーやフッター、ページ数などを指定して、ノートやテンプレートとして使う PDF ファイルを作成します。;https://github.com/ten87tak/my-PDF-generator;3.png;CLI only;False
 PDF インボイス・ジェネレータ;Excel からデータを読み取って、PDF 形式のインボイスを自動的に作成します   (^-^)b;https://github.com/ten87tak/my-excel_pdf-invoice-generator;4.png;CLI only;False
-明るいニュースのサイト;News API からデータを取得して、感情分析により明るいニュースだけを抽出するアプリ (^▽^);None;5.png;None;False
+明るいニュースのサイト;News API からデータを取得して、感情分析により明るいニュースだけを抽出するアプリ (^▽^);https://github.com/ten87tak/Email_News;5.png;None;False
 Weather API;Python と Flask で作成された REST API で、いろいろな都市の過去の気象データを提供します (*‘∀‘);None;6.png;None;False
 ダウンロードフォルダクリーナー;ダウンロードフォルダに古いファイルがあれば削除し、常にフォルダをスッキリさせておくことができます。;None;7.png;None;False
 コンサート・スクレーパー;好きなバンドのウェブサイトをチェックして、新しいコンサートがあるとメールで知らせてくれます (^^♪;None;8.png;None;False
