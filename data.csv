@@ -14,7 +14,7 @@ Weather API;Python と Flask で作成された REST API で、いろいろな都市の過去の気象
 インターネット速度分析;数秒ごとのインターネット速度を記録して、その値をブラウザで視覚的に表示します (´・∀・｀)ﾍｰ;None;13.png;None;False
 データ・モニタリング;特定のウェブサイトをモニタリングして、定期的にデータをリモートサーバーに記録します。;None;14.png;None;False
 データ・ビジュアリゼーション;データモニタリングアプリで集めたデータを可視化します。;None;15.png;None;False
-天気予報;あらゆる都市の５日先までの天気予報を視覚表示するデータ・ウェブアプリです！(*^^*);None;16.png;None;False
+天気予報;あらゆる都市の５日先までの天気予報を視覚表示するデータ・ウェブアプリです！(*^^*);https://github.com/ten87tak/Weather_Forecast;16.png;https://ten87tak-weather-forecast-frontend-v1ctnf.streamlit.app/;False
 学生管理システム;SQL データベースをバックエンドに使った、大学生のデータを管理するデスクトップ PyQt6 GUI アプリです ^ ^;None;17.png;None;False
 学校管理システム;SQL データベースをバックエンドに使った、複雑な大学のデータを管理するデスクトップ PyQt6 GUI アプリです (´・∀・｀);None;18.png;None;False
 レストランメニュー;レストランのメニューと空席が分かる Django で作られたウェブアプリ。;None;19.png;None;False
