@@ -33,6 +33,7 @@ with column_1:
     st.write("")
     st.write("")
     st.write("")
+    st.write("")
 
     st.header("幸福度測定データアプリ")
     st.write("GDP（国内総生産）、幸せ度、寛容の度合のデータの相互関係をグラフに表示します！:)")
@@ -42,7 +43,6 @@ with column_1:
 
     st.write("[ソースコード](https://github.com/ten87tak/New_Happiness_Data_App)")
 
-    st.write("")
     st.write("")
 
     st.write("[ウェブアプリ](https://ten87tak-new-happiness-data-app-main-7i0xd2.streamlit.app/)")
@@ -65,6 +65,7 @@ with column_3:
 
     st.write("[ソースコード](https://github.com/ten87tak/Astronomy_Today)")
 
+    st.write("")
     st.write("")
     st.write("")
     st.write("")
