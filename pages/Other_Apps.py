@@ -17,7 +17,6 @@ with column_1:
 
     st.write("")
     st.write("")
-    st.write("")
 
     st.write("[ソースコード](https://github.com/ten87tak/OOP_App1_GeoGame)")
 
@@ -34,7 +33,7 @@ with column_1:
     st.write("")
     st.write("")
 
-    st.header("幸福度データ測定アプリ")
+    st.header("幸福度測定データアプリ")
     st.write("GDP（国内総生産）、幸せ度、寛容の度合のデータの相互関係をグラフに表示します！:)")
 
     st.write("")
@@ -52,6 +51,7 @@ with column_3:
     st.write("")
     st.image("images/OOP_App1.PNG")
 
+    st.write("")
     st.write("")
     st.write("")
     st.write("")
