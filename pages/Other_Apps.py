@@ -25,6 +25,7 @@ with column_1:
     st.write("")
     st.write("")
     st.write("")
+    st.write("")
 
     st.image("images/astro_pic.jpg")
 
