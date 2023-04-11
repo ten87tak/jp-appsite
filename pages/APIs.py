@@ -37,5 +37,7 @@ with column_3:
     st.write("")
     st.write("")
     st.write("")
+    st.write("")
+    st.write("")
 
     st.image("images/weather_api_home.PNG")
