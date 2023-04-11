@@ -13,6 +13,9 @@ response_1 = requests.get(url)
 
 content = response_1.json()
 
+st.subheader("（英語のみです。ページ一番下に Google 翻訳へのリンクがあります 😊")
+
+
 try:
     img_url = content["hdurl"]
     response_2 = requests.get(img_url)
@@ -24,6 +27,8 @@ try:
     st.title(content["title"])
     st.image("image.jpg", width=700)
     st.write(content["explanation"])
+    st.write("")
+    st.write("[Google 翻訳サイトで日本語に訳して読む](https://translate.google.com/?hl=ja)")
 
 except KeyError:
     st.subheader("Get your own API key at NASA and assign it to the 'api_key' "
