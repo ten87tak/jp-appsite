@@ -36,7 +36,7 @@ with column_1:
     st.write("")
 
     st.header("幸福度測定データアプリ")
-    st.write("GDP（国内総生産）、幸せ度、寛容の度合のデータの相互関係をグラフに表示します！:)")
+    st.write("GDP（国内総生産）、幸福度、寛容度のデータの相互関係をグラフで表示します :)")
 
     st.write("")
     st.write("")
