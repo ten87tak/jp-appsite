@@ -15,6 +15,10 @@ with column_1:
     st.write("")
     st.write("")
     st.write("")
+    st.write("")
+    st.write("")
+    st.write("")
+    st.write("")
 
     st.title("お天気 API")
     st.subheader("(「ホーム」タブでも「Weather API」というタイトルで紹介しています！)")
@@ -35,7 +39,6 @@ with column_3:
 
     st.write("[ソースコード](https://github.com/ten87tak/Dictionary_API)")
 
-    st.write("")
     st.write("")
     st.write("")
     st.write("")
